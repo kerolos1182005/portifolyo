@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to left, #ff7e5f, #b49984);
+    font-family: Arial, sans-serif; 
+}
+.counter{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 200px;
+}
+div{
+    text-align: center;
+}
+button{
+    background-color: orange;
+    color:red;
+    margin: 10px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: #ff7e5f;
+    color: white;
+    font-size: large;
+    border-radius: 10px;
+}
